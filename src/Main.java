@@ -13,7 +13,7 @@ public class Main {
                 //j executa de 1 até 10, enquanto o i espera o j chegar a 10 para executar a repetição
             }
         }
-
+        //vetores
         int[] numeros = new int[5];
         numeros[0] = 1;
         numeros[1] = 2;
@@ -74,7 +74,7 @@ public class Main {
         System.out.println(resultado);
 
     }
-
+    //funções/metodos
     public static int soma(int a, int b){
         return a + b;
     }
